@@ -2,7 +2,7 @@
 This is a compilation of code I've created or worked on over the years for school-related projects. Most of it is self explanatory or documented, but for the more complicated things I'll be outlining the purpose.
 
 ## C
-This is all code that has been written during my Programming Language Concepts course. Pretty straignt-forward.
+Code that has been written during my Programming Language Concepts course.
 
 ## Java
 ### WordCount.java
