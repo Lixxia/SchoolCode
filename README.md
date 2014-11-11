@@ -4,6 +4,9 @@ This is a compilation of code I've created or worked on over the years for schoo
 ## C
 Code that has been written during my Programming Language Concepts course.
 
+## Ruby
+Also written during my Programming Language Concepts class. See comments in code for explanations. 
+
 ## Java
 ### WordCount.java
 This was written during a course I took (Basics of Cloud Computing) while studying abroad at the University of Tartu.  We were tasked with using the Hadoop mapreduce project and modifying an example to serve as a word count. Given a folder containing several books in .txt format it would ignore the punctuation marks and go through each file separately producing a count of all the clear words. Finally we created a partioner class to direct all books whose file began with the same name to the same reduce task.
