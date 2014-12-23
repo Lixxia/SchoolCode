@@ -3,7 +3,9 @@ This is a compilation of code I've created or worked on over the years for schoo
 
 ## Major Projects
 These projects are generally semester-long endeavors. The code for them is hosted on Github and linked below. Further explanations can be found in the associated readme.
+
 [Databases Project (CSCI332)](https://github.com/Lixxia/db-orchestra)
+
 [Software Engineering I Project (CSCI362)](https://github.com/Lixxia/CSCI362)
 
 ## C
