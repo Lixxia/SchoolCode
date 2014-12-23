@@ -1,6 +1,11 @@
 # Overview
 This is a compilation of code I've created or worked on over the years for school-related projects. Most of it is self explanatory or documented, but for the more complicated things I'll be outlining the purpose.
 
+## Major Projects
+These projects are generally semester-long endeavors. The code for them is hosted on Github and linked below. Further explanations can be found in the associated readme.
+[Databases Project (CSCI332)](https://github.com/Lixxia/db-orchestra)
+[Software Engineering I Project (CSCI362)](https://github.com/Lixxia/CSCI362)
+
 ## C
 Code that has been written during my Programming Language Concepts course.
 
