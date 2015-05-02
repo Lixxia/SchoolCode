@@ -5,6 +5,8 @@ This is a compilation of code I've created or worked on over the years for schoo
 These projects are generally semester-long endeavors. The code for them is hosted on Github and linked below. Further explanations can be found in the associated readme.
 [Databases Project (CSCI332)](https://github.com/Lixxia/db-orchestra)
 [Software Engineering I Project (CSCI362)](https://github.com/Lixxia/CSCI362)
+[Compiler Design Projects (CSCI420)](https://github.com/Lixxia/CSCI420)
+[Operating Systems Projects (CSCI340)](https://github.com/Lixxia/CSCI340)
 
 ## C
 Code that has been written during my Programming Language Concepts course.
